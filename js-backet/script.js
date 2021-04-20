@@ -307,7 +307,7 @@ class RenderProdCard {
 		})  
         }
         //this.fullCounts.innerHTML = num;
-        console.log(1111111111111111);
+       
     this.fullPrice.innerHTML = priceT+'<span>руб</span>';
     this.basket_sum.innerHTML=priceT+'<span>р</span>';
 	
